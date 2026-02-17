@@ -52,19 +52,17 @@ pip install -r requirements.txt
 
 1\. Ejecuta el script:
 
-&nbsp;  ```bash
-
-&nbsp;  python opl\_generator.py
-
-&nbsp;  
+```bash
+python OPL-CFG-Generator.py
+```  
 
 2\. El script descargará la base de datos.
 
-3\. Selecciona tu archivo `cache\_hdl\_local.dat` (o modifica el script para leer ISOs).
+3\. Selecciona tu archivo `cache\_hdl\_local.dat`
 
 4\. Los archivos `.cfg` se generarán en la carpeta `/CFG`.
 
-
+5\. Copia la carpeta CFG a la carpeta +OPL del HDD de tu PS2. 
 
 \## Créditos
 
