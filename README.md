@@ -38,7 +38,7 @@ el script usa archivo cache_hdl_local.dat que genera automáticamente OPL manage
 
 &nbsp;  ```bash
 
-&nbsp;  git clone \[https://github.com/TU\_USUARIO/OPL-CFG-Generator.git](https://github.com/TU\_USUARIO/OPL-CFG-Generator.git)
+&nbsp;  git clone \https://github.com/LuiskAycardi/OPL-CFG-Generator.git
 
 &nbsp; 
 
