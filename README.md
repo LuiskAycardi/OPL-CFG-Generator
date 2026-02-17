@@ -47,7 +47,6 @@ cd OPL-CFG-Generator
 ``` 
 
 
-
 \## Uso 🚀
 
 1\. Ejecuta el script:
@@ -58,7 +57,7 @@ python OPL-CFG-Generator.py
 
 2\. El script descargará la base de datos.
 
-3\. Selecciona tu archivo `cache\_hdl\_local.dat`
+3\. Selecciona tu archivo `cache_hdl_local.dat`
 
 4\. Los archivos `.cfg` se generarán en la carpeta `/CFG`.
 
