@@ -36,11 +36,11 @@ el script usa archivo cache_hdl_local.dat que genera automáticamente OPL manage
 
 1\. Clona el repositorio:
 
-&nbsp;  ``bash
+&nbsp;  ```bash
 
 &nbsp;  git clone \[https://github.com/TU\_USUARIO/OPL-CFG-Generator.git](https://github.com/TU\_USUARIO/OPL-CFG-Generator.git)
 
-&nbsp;  ``
+&nbsp; 
 
 2\. Instala las dependencias:
 
@@ -48,7 +48,7 @@ el script usa archivo cache_hdl_local.dat que genera automáticamente OPL manage
 
 &nbsp;  pip install -r requirements.txt
 
-&nbsp;  ```
+&nbsp; 
 
 
 
@@ -60,7 +60,7 @@ el script usa archivo cache_hdl_local.dat que genera automáticamente OPL manage
 
 &nbsp;  python opl\_generator.py
 
-&nbsp;  ```
+&nbsp;  
 
 2\. El script descargará la base de datos.
 
