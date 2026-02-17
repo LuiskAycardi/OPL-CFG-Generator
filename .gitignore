@@ -1,0 +1,14 @@
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos generados por el script
+CFG/
+temp_gdx_data/
+*.7z
+
+# Archivos de configuración local del usuario (Privacidad)
+*.dat
+
+# Logs del sistema (si los hubiera)
+*.log
