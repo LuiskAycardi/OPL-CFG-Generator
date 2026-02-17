@@ -40,10 +40,10 @@ el script usa archivo cache_hdl_local.dat que genera automáticamente OPL manage
 git clone https://github.com/LuiskAycardi/OPL-CFG-Generator.git
 ```
 
-2\. Instala las dependencias:
+2\. Cambia al directorio clonado:
 
 ```bash
-pip install -r requirements.txt
+cd OPL-CFG-Generator
 ``` 
 
 
@@ -63,6 +63,8 @@ python OPL-CFG-Generator.py
 4\. Los archivos `.cfg` se generarán en la carpeta `/CFG`.
 
 5\. Copia la carpeta CFG a la carpeta +OPL del HDD de tu PS2. 
+
+6\. Disfruta de tu libreria de juegos con metadata.
 
 \## Créditos
 
