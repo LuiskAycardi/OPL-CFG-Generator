@@ -14,13 +14,13 @@ el script usa archivo cache_hdl_local.dat que genera automáticamente OPL manage
 
 \- 📥 Descarga automática de la DB actualizada.
 
-\- 🔍 Mapeo inteligente de IDs (insensible a guiones o puntos).
+\- 🔍 Mapeo inteligente de IDs.
 
 \- 📝 Generación de metadatos completos: Título, Desarrollador, Género, Descripción, etc.
 
-\- 🔞 Soporte correcto para Clasificación Parental (ESRB/PEGI).
+\- 🔞 Clasificación Parental (ESRB/PEGI).
 
-\- 📺 Configuración automática de Video (Vmode, Scan, Aspect).
+\- 📺 información de Video (Vmode, Scan, Aspect).
 
 
 
