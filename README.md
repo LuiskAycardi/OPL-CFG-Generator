@@ -4,11 +4,9 @@
 
 Este script automatiza la creación de archivos de configuración (`.cfg`) para \*\*Open PS2 Loader (OPL)\*\*.
 
-Descarga automáticamente la base de datos más reciente del proyecto \[GDX-X](https://github.com/GDX-X/OPL-Games-Infos-Database-Project) y sincroniza la información con tus juegos locales de esta forma podrás obtener la metadata para que tu OPL muestre la toda la información de
+Descarga automáticamente la base de datos más reciente del proyecto \[GDX-X](https://github.com/GDX-X/OPL-Games-Infos-Database-Project) y sincroniza la información con tus juegos locales de esta forma podrás obtener la metadata para que tu OPL muestre la toda la información de tus juegos. recomiendo usar la versión de OPL 1.1 stable. 
 
-tus juegos. recomiendo usar la versión de OPL 1.1 stable. 
-
-el script usa archivo cache\_hdl\_local.dat que genera automáticamente OPL manager 2.4, en posteriores versiones de este script implementare el escaneo directo de carpetas con ISOs para extraer las ID de los juegos. 
+el script usa archivo cache_hdl_local.dat que genera automáticamente OPL manager 2.4, en posteriores versiones de este script implementare el escaneo directo de carpetas con ISOs para extraer las ID de los juegos. 
 
 
 
